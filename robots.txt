@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://staistra.github.io/sitemap.html.gz
+Sitemap: https://staistra.github.io/app/sitemap.html.gz
+Sitemap: https://staistra.github.io/assets/sitemap.html.gz
+Sitemap: https://staistra.github.io/css/sitemap.html.gz
+Sitemap: https://staistra.github.io/includes/sitemap.html.gz
+Sitemap: https://staistra.github.io/item/sitemap.html.gz
+Sitemap: https://staistra.github.io/src/sitemap.html.gz
